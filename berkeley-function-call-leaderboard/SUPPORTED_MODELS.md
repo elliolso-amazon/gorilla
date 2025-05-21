@@ -19,6 +19,7 @@ For model names containing `{...}`, multiple versions are available. For example
 | Amazon-Nova-Lite-v1:0                          | Function Calling | AWS            | nova-lite-v1.0                                              |
 | Amazon-Nova-Micro-v1:0                         | Function Calling | AWS            | nova-micro-v1.0                                             |
 | Amazon-Nova-Pro-v1:0                           | Function Calling | AWS            | nova-pro-v1.0                                               |
+| Amazon-Nova-Premier-v1:0                       | Function Calling | AWS            | nova-premier-v1.0                                           |
 | Bielik-11B-v2.3-Instruct                       | Prompt           | Self-hosted 💻 | speakleash/Bielik-11B-v2.3-Instruct                         |
 | BitAgent-8B                                    | Prompt           | Self-hosted 💻 | BitAgent/BitAgent-8B                                        |
 | Claude-3-Opus-20240229                         | Function Calling | Anthropic      | claude-3-opus-20240229-FC                                   |

@@ -418,6 +418,18 @@ api_inference_model_map = {
         is_fc_model=True,
         underscore_to_dot=True,
     ),
+    "nova-premier-v1.0": ModelConfig(
+        model_name="nova-premier-v1.0",
+        display_name="Amazon-Nova-Premier-v1:0 (FC)",
+        url="https://aws.amazon.com/cn/ai/generative-ai/nova/",
+        org="Amazon",
+        license="Proprietary",
+        model_handler=NovaHandler,
+        input_price=2.5,
+        output_price=12.5,
+        is_fc_model=False,
+        underscore_to_dot=True,
+    ),
     "nova-pro-v1.0": ModelConfig(
         model_name="nova-pro-v1.0",
         display_name="Amazon-Nova-Pro-v1:0 (FC)",

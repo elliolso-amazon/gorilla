@@ -40,6 +40,7 @@ SUPPORTED_MODELS = [
     "claude-3-5-sonnet-20241022-FC",
     "claude-3-5-haiku-20241022",
     "claude-3-5-haiku-20241022-FC",
+    "nova-premier-v1.0",
     "nova-pro-v1.0",
     "nova-lite-v1.0",
     "nova-micro-v1.0",
